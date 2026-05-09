@@ -1,0 +1,208 @@
+# m6A-SBP-seq
+## HEK293T cells
+HEK293T_samples:
+  HEK293T_Input_1_rep1:
+    r1: "resources/fastq/HEK293T_Input_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Input_1_2.fq.gz"
+  HEK293T_Input_2_rep1:
+    r1: "resources/fastq/HEK293T_Input_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Input_2_2.fq.gz"
+  HEK293T_Active_Motif_1_rep1:
+    r1: "resources/fastq/HEK293T_Active_Motif_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Active_Motif_IP_1_2.fq.gz"
+  HEK293T_Active_Motif_2_rep1:
+    r1: "resources/fastq/HEK293T_Active_Motif_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Active_Motif_IP_2_2.fq.gz"
+  HEK293T_Em6ABP1_1_rep1:
+    r1: "resources/fastq/HEK293T_Em6ABP1_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Em6ABP1_IP_1_2.fq.gz"
+  HEK293T_Em6ABP1_2_rep1:
+    r1: "resources/fastq/HEK293T_Em6ABP1_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Em6ABP1_IP_2_2.fq.gz"
+  HEK293T_IgG_1_rep1:
+    r1: "resources/fastq/HEK293T_IgG_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_IgG_IP_1_2.fq.gz"
+  HEK293T_IgG_2_rep1:
+    r1: "resources/fastq/HEK293T_IgG_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_IgG_IP_2_2.fq.gz"
+  HEK293T_Millipore_1_rep1:
+    r1: "resources/fastq/HEK293T_Millipore_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Millipore_IP_1_2.fq.gz"
+  HEK293T_Millipore_2_rep1:
+    r1: "resources/fastq/HEK293T_Millipore_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Millipore_IP_2_2.fq.gz"
+  HEK293T_SYSY_1_rep1:
+    r1: "resources/fastq/HEK293T_SYSY_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_SYSY_IP_1_2.fq.gz"
+  HEK293T_SYSY_2_rep1:
+    r1: "resources/fastq/HEK293T_SYSY_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_SYSY_IP_2_2.fq.gz"
+  HEK293T_Input_1_rep2:
+    r1: "resources/fastq/HEK293T_Input_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Input_1_2.fq.gz"
+  HEK293T_Input_2_rep2:
+    r1: "resources/fastq/HEK293T_Input_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Input_2_2.fq.gz"
+  HEK293T_Active_Motif_1_rep2:
+    r1: "resources/fastq/HEK293T_Active_Motif_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Active_Motif_IP_1_2.fq.gz"
+  HEK293T_Active_Motif_2_rep2:
+    r1: "resources/fastq/HEK293T_Active_Motif_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Active_Motif_IP_2_2.fq.gz"
+  HEK293T_Em6ABP1_1_rep2:
+    r1: "resources/fastq/HEK293T_Em6ABP1_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Em6ABP1_IP_1_2.fq.gz"
+  HEK293T_Em6ABP1_2_rep2:
+    r1: "resources/fastq/HEK293T_Em6ABP1_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Em6ABP1_IP_2_2.fq.gz"
+  HEK293T_IgG_1_rep2:
+    r1: "resources/fastq/HEK293T_IgG_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_IgG_IP_1_2.fq.gz"
+  HEK293T_IgG_2_rep2:
+    r1: "resources/fastq/HEK293T_IgG_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_IgG_IP_2_2.fq.gz"
+  HEK293T_Millipore_1_rep2:
+    r1: "resources/fastq/HEK293T_Millipore_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Millipore_IP_1_2.fq.gz"
+  HEK293T_Millipore_2_rep2:
+    r1: "resources/fastq/HEK293T_Millipore_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_Millipore_IP_2_2.fq.gz"
+  HEK293T_SYSY_1_rep2:
+    r1: "resources/fastq/HEK293T_SYSY_IP_1_1.fq.gz"
+    r2: "resources/fastq/HEK293T_SYSY_IP_1_2.fq.gz"
+  HEK293T_SYSY_2_rep2:
+    r1: "resources/fastq/HEK293T_SYSY_IP_2_1.fq.gz"
+    r2: "resources/fastq/HEK293T_SYSY_IP_2_2.fq.gz"
+
+
+merged_groups:
+  HEK293T_Input_1: ["HEK293T_Input_1_rep1", "HEK293T_Input_1_rep2"]
+  HEK293T_Input_2: ["HEK293T_Input_2_rep1", "HEK293T_Input_2_rep2"]
+  HEK293T_Active_Motif_1: ["HEK293T_Active_Motif_1_rep1", "HEK293T_Active_Motif_1_rep2"]
+  HEK293T_Active_Motif_2: ["HEK293T_Active_Motif_2_rep1", "HEK293T_Active_Motif_2_rep2"]
+  HEK293T_Em6ABP1_1: ["HEK293T_Em6ABP1_1_rep1", "HEK293T_Em6ABP1_1_rep2"]
+  HEK293T_Em6ABP1_2: ["HEK293T_Em6ABP1_2_rep1", "HEK293T_Em6ABP1_2_rep2"]
+  HEK293T_IgG_1: ["HEK293T_IgG_1_rep1", "HEK293T_IgG_1_rep2"]
+  HEK293T_IgG_2: ["HEK293T_IgG_2_rep1", "HEK293T_IgG_2_rep2"]
+  HEK293T_Millipore_1: ["HEK293T_Millipore_1_rep1", "HEK293T_Millipore_1_rep2"]
+  HEK293T_Millipore_2: ["HEK293T_Millipore_2_rep1", "HEK293T_Millipore_2_rep2"]
+  HEK293T_SYSY_1: ["HEK293T_SYSY_1_rep1", "HEK293T_SYSY_1_rep2"]
+  HEK293T_SYSY_2: ["HEK293T_SYSY_2_rep1", "HEK293T_SYSY_2_rep2"]
+
+
+HEK293T_all_samples:
+  ["HEK293T_Input",
+  "HEK293T_Active_Motif",
+  "HEK293T_Em6ABP1",
+  "HEK293T_IgG",
+  "HEK293T_Millipore",
+  "HEK293T_SYSY"]
+
+
+HEK293T_IP:
+  ["HEK293T_Active_Motif",
+  "HEK293T_Em6ABP1",
+  "HEK293T_IgG",
+  "HEK293T_Millipore",
+  "HEK293T_SYSY"]
+
+
+HEK293T_IP_abbr:
+  ["AM", "eB", "IgG", "Milli", "SY"]
+
+
+## Zebrafish zygote
+ZF_all_samples:
+  ["ZF_Input_1",
+  "ZF_Input_2",
+  "ZF_10zygotes_1",
+  "ZF_10zygotes_2",
+  "ZF_10zygotes_3",
+  "ZF_10zygotes_4",
+  "ZF_10zygotes_5",
+  "ZF_single_zygote_1",
+  "ZF_single_zygote_2",
+  "ZF_single_zygote_3",
+  "ZF_single_zygote_4",
+  "ZF_single_zygote_5",
+  "ZF_single_zygote_6",
+  "ZF_single_zygote_7",
+  "ZF_single_zygote_8",
+  "ZF_single_zygote_9",
+  "ZF_single_zygote_10"]
+
+
+ZF_IP:
+  ["ZF_10zygotes_1",
+  "ZF_10zygotes_2",
+  "ZF_10zygotes_3",
+  "ZF_10zygotes_4",
+  "ZF_10zygotes_5",
+  "ZF_single_zygote_1",
+  "ZF_single_zygote_2",
+  "ZF_single_zygote_3",
+  "ZF_single_zygote_4",
+  "ZF_single_zygote_5",
+  "ZF_single_zygote_6",
+  "ZF_single_zygote_7",
+  "ZF_single_zygote_8",
+  "ZF_single_zygote_9",
+  "ZF_single_zygote_10"]
+
+
+# Li et al
+ZF_Li_samples:
+  Li_zInput10_1:
+    r1: "other_study/Li/resources/SRR16096221_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096221_2.fastq.gz"
+  Li_zInput10_2:
+    r1: "other_study/Li/resources/SRR16096222_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096222_2.fastq.gz"
+  Li_zIP1_1:
+    r1: "other_study/Li/resources/SRR16096229_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096229_2.fastq.gz"
+  Li_zIP1_2:
+    r1: "other_study/Li/resources/SRR16096230_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096230_2.fastq.gz"
+  Li_zIP1_3:
+    r1: "other_study/Li/resources/SRR16096231_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096231_2.fastq.gz"
+  Li_zIP1_4:
+    r1: "other_study/Li/resources/SRR16096232_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096232_2.fastq.gz"
+  Li_zIP1_5:
+    r1: "other_study/Li/resources/SRR16096233_1.fastq.gz"
+    r2: "other_study/Li/resources/SRR16096233_2.fastq.gz"
+
+
+ZF_Li_single_IP:
+  ['Li_zIP1_1',
+  'Li_zIP1_2',
+  'Li_zIP1_3',
+  'Li_zIP1_4',
+  'Li_zIP1_5']
+
+
+# Zhao et al
+ZF_Zhao_samples:
+  Zhao_Input_0:
+    "other_study/zebrafish_he/resources/input-0.fastq.gz"
+  Zhao_IP_0:
+    "other_study/zebrafish_he/resources/m6A-IP-0.fastq.gz"
+
+ZF_Zhao_single_IP:
+  ['Zhao_IP_0']
+
+
+# Other info
+# contaminant sequences contains rRNA and tRNA sequences of human and zebrafish downloaded from Rfam 14.10
+contamination_fa: "resources/reference/contaminant.fa"
+
+human_genome_index: "resources/reference/GRCh38_Ensembl_HISAT2_index/GRCh38"
+human_genome: "resources/reference/GRCh38.fa"
+human_genome_anno: "resources/reference/Homo_sapiens.GRCh38.95.gtf"
+
+ZF_genome_index: "resources/reference/Danio_rerio.GRCz11_HISAT2_index/GRCz11"
+ZF_genome: "resources/reference/Danio_rerio.GRCz11.dna_sm.primary_assembly.fa"
+ZF_genome_anno: "resources/reference/Danio_rerio.GRCz11.115.gtf"
+
