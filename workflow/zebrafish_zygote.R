@@ -579,7 +579,7 @@ ZF_peak_geneID_sp_high_abun <- c(ZF_peak_geneID_sp_50_100, ZF_peak_geneID_sp_100
 # GO_high_abundance_peak.xlsx is the report file from Metascape
 ZF_sp_peak_50_func_GO <- read.xlsx('other_study/GO_high_abundance_peak.xlsx', 'Enrichment')
 
-ZF_sp_peak_50_func_GO <- ZF_sp_peak_50_func_GO |> filter(grepl('Summary', GroupID))
+ZF_sp_peak_50_func_GO <- ZF_sp_peak_50_func_GO %>% filter(grepl('Summary', GroupID))
 ZF_sp_peak_50_func_GO$Gene_count <- as.numeric(sub("/.*", "", ZF_sp_peak_50_func_GO$InTerm_InList))
 
 ggplot(ZF_sp_peak_50_func_GO) + 
