@@ -6,4 +6,4 @@ Zhang R#, Zhang H#, Mei SJ#, Zhang YF, Hou ZL, Liu Y, Yang YG, Wang XJ\*, Wang H
 ---
 
 # Data availability
-Input FASTQ files can be downloaded from Genome Sequence Archive at the National Genomics Data Center under accession numbers HRA017758 (HEK293T dataset) and CRA041067 (zebrafish dataset).
+All raw FASTQ files can be downloaded from Genome Sequence Archive at the National Genomics Data Center under accession numbers HRA017758 (HEK293T dataset) and CRA041067 (zebrafish dataset).
