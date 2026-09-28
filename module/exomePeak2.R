@@ -16,7 +16,7 @@ print(IP_BAM)
 exomePeak2(bam_input = INPUT_BAM,
            bam_ip = IP_BAM,
            gff = GENE_ANNO_GTF,
-           strandness = "unstrand",
+           strandness = "1st_strand",
            fragment_length = 100,
            bin_size = 25,
            step_size = 25,
